@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChuckNorrisTestTask</string>
+    <string name="categories">Select category of jokes</string>
+    <string name="jokes">Jokes</string>
+</resources>
